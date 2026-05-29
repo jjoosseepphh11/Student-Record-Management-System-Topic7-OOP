@@ -53,7 +53,7 @@ If needed, update the connection details in `src/main/java/com/student/DBConnect
 From the project root:
 
 ```bash
-mvn clean javafx:run
+.\mvnw.cmd clean javafx:run
 ```
 
 ## Usage
